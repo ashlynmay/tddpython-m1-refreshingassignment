@@ -7,8 +7,6 @@ An API backend for a drink ordering system. It includes two main classes, `Order
 
 ## Demo
 
-Insert gif or link to demo
-
 
 ## Configuration
 

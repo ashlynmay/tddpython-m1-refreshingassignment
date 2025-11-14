@@ -24,6 +24,5 @@ order.add_item(testdrink4, silent=True)
 order.add_item(testdrink5, silent=True)
 order.add_item(testdrink6, silent=True)
 order.add_item(testdrink6, silent=True)
-
-order.add_item(testdrink7)
+order.add_item(testdrink7, silent=True)
 print(order.get_receipt())
