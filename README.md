@@ -6,7 +6,8 @@ An API backend for a drink ordering system. It includes two main classes, `Order
 
 
 ## Demo
-
+![receipt demo screenshot](/screenshots/demo_receipt.png)
+![pytest demo screenshot](/screenshots/demo_pytest.png)
 
 ## Configuration
 
@@ -103,7 +104,22 @@ Ensure that there is not more than one base.
 Ensure that no flavors repeat.
 
 ## Screenshots
-
 ### `config.py`
 ![config.py screenshot](/screenshots/configpy.png)
+### `drink.py`
+![drink.py screenshot](/screenshots/drinkpy0.png)
+![drink.py screenshot](/screenshots/drinkpy1.png)
+### `order.py`
+![order.py screenshot](/screenshots/orderpy0.png)
+![order.py screenshot](/screenshots/orderpy1.png)
+![order.py screenshot](/screenshots/orderpy2.png)
+### `main.py`
+![main.py screenshot](/screenshots/mainpy.png)
+### `test_order.py`
+![test_order.py screenshot](/screenshots/test_orderpy0.png)
+![test_order.py screenshot](/screenshots/test_orderpy1.png)
+### `test_drink.py`
+![test_drink.py screenshot](/screenshots/test_drinkpy0.png)
+![test_drink.py screenshot](/screenshots/test_drinkpy1.png)
+![test_drink.py screenshot](/screenshots/test_drinkpy2.png)
 
