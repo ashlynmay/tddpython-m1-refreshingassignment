@@ -5,10 +5,10 @@ An API backend for a drink ordering system. It includes two main classes, `Order
 
 ## Quick Navigate
 
-[Demo](#demo)
-[Configuration](#configuration)
-[Documentation](#documentation)
-[Screenshots](#screenshots)
+### [Demo](#demo)
+### [Configuration](#configuration)
+### [Documentation](#documentation)
+### [Screenshots](#screenshots)
 
 ## Demo
 ![receipt demo screenshot](/screenshots/demo_receipt.png)
