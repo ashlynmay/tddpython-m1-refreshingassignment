@@ -3,7 +3,9 @@
 
 An API backend for a drink ordering system. It includes two main classes, `Order` and `Drink`, as well as various methods for both classes that can be used to manipulate the objects in various ways. The project also includes unit tests for both classes to align with the test-driven development philosophy.
 
+## Quick Navigate
 
+[Go to Demo section](#demo)
 
 ## Demo
 ![receipt demo screenshot](/screenshots/demo_receipt.png)
