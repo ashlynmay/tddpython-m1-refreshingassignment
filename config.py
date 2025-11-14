@@ -8,7 +8,8 @@
 
 # Drink customization
 allowed_bases = ['water', 'sbrite', 'pokeacola', 'Mr. Salt', 'hill fog', 'leaf wine']
-base_prices = {'water': 1.99, 'sbrite': 2.99, 'pokeacola': 3.49, 'Mr. Salt': 3.49, 'hill fog': 3.99, 'leaf wine': 4.99}
+base_prices = {'water': 1.99, 'sbrite': 2.99, 'pokeacola': 3.49, 
+               'Mr. Salt': 3.49, 'hill fog': 3.99, 'leaf wine': 4.99}
 
 allowed_flavors = ['lemon', 'cherry', 'strawberry', 'mint', 'blueberry', 'lime']
 flavor_price = 0.49
